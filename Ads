@@ -1,5 +1,5 @@
-Ad 1
-Ad 2
-Ad 3
-Ad 4
-Ad 5
+{"text":"Ad 1","color":"gold"}
+{"text":"Ad 2","color":"yellow"}
+{"text":"Ad 3","color":"dark_green"}
+{"text":"Ad 4","color":"aqua"}
+{"text":"Ad 5","color":"light_purple"}
