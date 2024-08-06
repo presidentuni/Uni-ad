@@ -1,5 +1,1 @@
-{"text":"Ad 1","color":"gold"}
-{"text":"Ad 2","color":"yellow"}
-{"text":"Ad 3","color":"dark_green"}
-{"text":"Ad 4","color":"aqua"}
-{"text":"Ad 5","color":"light_purple"}
+"Unlock your potential with ChatGPT: your go-to assistant for research, creativity, learning, and productivity! ",{"text":"Click here","clickEvent":{"action":"open_url","value":"https://www.openai.com/chatgpt"},"hoverEvent":{"action":"show_text","contents":"https://www.openai.com/chatgpt"}}
